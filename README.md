@@ -1,2 +1,2 @@
 # instax_maulana
-memenuhi tugas mata kuliah pemrograman II
+untuk memenuhi tugas mata kuliah pemrograman II
